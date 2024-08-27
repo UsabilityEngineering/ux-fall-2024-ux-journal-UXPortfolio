@@ -1,6 +1,6 @@
-# UX Portfolio
+# Karl's UX Portfolio
 
-About me...
+I am a Computer Engineering Major, Computer Science Minor. I am taking this class fufill the writing requirment.
 
 ## UX Team Project
 
